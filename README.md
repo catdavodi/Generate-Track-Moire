@@ -1,4 +1,4 @@
-### Track Randomly Generated Moire Patterns and Changing Parameters
+## Track Randomly Generated Moire Patterns and Changing Parameters
 ### Dependencies
 ``` pip install -r requirements.txt ```
 ### Config
